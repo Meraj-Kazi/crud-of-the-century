@@ -76,12 +76,24 @@ Each letter in the CRUD acronym has a corresponding HTTP request method.
 <hr>
 
 ### Features  🚀
-This project has ready crud project in several programming languages & frameworks.
+"CRUD of the Century", which means This project, has the **biggest** collection of easiest crud projects in several programming languages & frameworks. All the codes are up-to-date with their latest coding system. Our goal is to cover all the modern programming langiages & frameworks in this, so that, developers can get help.
 
-Here's the list of current available crud -
+Here's the list of current available crud operations -
 
-- [x] [JavaScript CRUD](#)
 - [x] [NodeJS CRUD](https://github.com/Meraj-Kazi/crud-of-the-century/tree/nodejs)
+- [ ] [Angular CRUD](#) *coming soon* 
+- [ ] [Django CRUD](#) *coming soon* 
+- [ ] [JavaScript CRUD](#) *coming soon*
+- [ ] [Java CRUD](#) *coming soon* 
+- [ ] [NestJS CRUD](#) *coming soon* 
+- [ ] [NextJS CRUD](#) *coming soon* 
+- [ ] [Laravel CRUD](#) *coming soon* 
+- [ ] [Php CRUD](#) *coming soon* 
+- [ ] [Python CRUD](#) *coming soon* 
+- [ ] [React CRUD](#) *coming soon* 
+- [ ] [Svelte CRUD](#) *coming soon* 
+- [ ] [TypeScript CRUD](#) *coming soon* 
+- [ ] [VueJS CRUD](#) *coming soon* 
 
 <hr>
 
