@@ -25,7 +25,7 @@ Learn different programming languages & frameworks through crud (create, read, u
 
 </div>
 
-### 🚀 Sponsors 🚀 
+### Sponsors 🚀
 #### Be a hero, [sponsor](https://github.com/Meraj-Kazi/crud-of-the-century/blob/main/SUPPORT.md) the project, please!
 
 <hr>
@@ -69,7 +69,7 @@ Each letter in the CRUD acronym has a corresponding HTTP request method.
 
 <hr>
 
-### 🚀 Features 
+### Features  🚀
 This project has ready crud project in several programming languages & frameworks.
 
 Here's the list of current available crud -
@@ -79,13 +79,13 @@ Here's the list of current available crud -
 
 <hr>
 
-### 🚀 Install 
+### Install  🚀
 
 Installation process is very simple and different for each languages & frameworks. Each one is properly documented in their corresponding branches. For example, if you wanna learn about the installation process of NodeJS to run [NodeJS CRUD](https://github.com/Meraj-Kazi/crud-of-the-century/tree/nodejs), you'll find it inside the [NodeJS CRUD](https://github.com/Meraj-Kazi/crud-of-the-century/tree/nodejs) branch doc.
 
 <hr>
 
-### 🚀 Quick Guide 
+### Quick Guide  🚀
 
 The intention of this project is to create a global factory of crud projects containing all the programming languages and frameworks available. Also maintain & update them with latest coding structures.
 
@@ -99,16 +99,16 @@ Learning crud operation is the first big challenge of learning any programming l
 
 <hr>
 
-### 🚀 Support
+### Support 🚀
 
 This is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://github.com/Meraj-Kazi/crud-of-the-century/blob/main/SUPPORT.md).
 
-### 🚀 People
+### People 🚀
 
 - Maintainers - [Meraj](https://twitter.com/meraj_kazi)
 - Contributors - 
 - Website - [crud of the century](https://meraj-kazi.github.io/crud-of-the-century)
 
-### 🚀 License
+### License 🚀
 
 This project is [MIT licensed](https://github.com/Meraj-Kazi/crud-of-the-century/blob/main/LICENSE).
