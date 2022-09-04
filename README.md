@@ -33,7 +33,7 @@ Learn different programming languages & frameworks through crud (create, read, u
 
 ### 🚀 Sponsors 🚀
 
-###### Be a hero, sponsor the project, please!
+#### Be a hero, [sponsor](https://github.com/Meraj-Kazi/crud-of-the-century/blob/nodejs/SUPPORT.md) the project, please!
 
 <hr>
 
@@ -44,7 +44,7 @@ Are you willing learn a programming language that you know nothing about?
 
 Sit tight with me. You'll see how much easy and effective it is to learn a completely new programming language or framework through crud operation without any prior knowledge. But please keep in mind, you'll have to go through each and every line of the documents I provide to understand the concepts clearly. I have carefully wrote down the docs so that it can be understood by school kids. That means it becomes easy to understand for anyone of any age. **DO NOT SKIP ANYTHING**.
 
-###### In case you don't know what CRUD actually is -
+#### In case you don't know what CRUD actually is -
 
 ## Despite being commonly pronounced /krʌd/, CRUD is not a word. It’s an abbreviation that stands for Create, Read, Update, and Delete or Destroy.
 
@@ -106,7 +106,15 @@ But you won't be able to use it properly untill you read the [Quick Guide](#quic
 ### 🚀 Quick Doc 
 Please go through this doc *line-by-line* to understand it properly. It's super **easy** and onc eyou understand it, you can never forget this.
 
+> *The intention of this project is to create a global factory of crud projects containing all the programming languages and frameworks available. Also maintain & update them with latest coding structures.*
+> 
+> *Any student, fresher, professional programmer/developer/engineer can get help from this right away.*
+>
+> *Learning crud operation is the first big challenge of learning any programming language/framework or development. It doesn't matter if it's web programming or anything else, learning crud is a must. Also it gives you proper basic knowledge about the system.*
 
+
+
+<hr>
 
 ### 🚀 Testing 
 
@@ -115,7 +123,7 @@ For testing, we will use Postman. You can download it from [here](https://www.po
 
 ### 🚀 Support
 
-This is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](./SUPPORT.md).
+This is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://github.com/Meraj-Kazi/crud-of-the-century/blob/nodejs/SUPPORT.md).
 
 ### 🚀 People
 
