@@ -33,7 +33,7 @@ Learn different programming languages & frameworks through crud (create, read, u
 
 ### 🚀 Sponsors 🚀
 
-#### Be a hero, [sponsor](https://github.com/Meraj-Kazi/crud-of-the-century/blob/nodejs/SUPPORT.md) the project, please!
+#### Be a hero, [sponsor](https://github.com/Meraj-Kazi/crud-of-the-century/blob/main/SUPPORT.md) the project, please!
 
 <hr>
 
@@ -123,7 +123,7 @@ For testing, we will use Postman. You can download it from [here](https://www.po
 
 ### 🚀 Support
 
-This is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://github.com/Meraj-Kazi/crud-of-the-century/blob/nodejs/SUPPORT.md).
+This is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://github.com/Meraj-Kazi/crud-of-the-century/blob/main/SUPPORT.md).
 
 ### 🚀 People
 
