@@ -26,7 +26,7 @@ Learn different programming languages & frameworks through crud (create, read, u
 </div>
 
 ### 🚀 Sponsors 🚀 
-###### Be a hero, [sponsor](https://github.com/Meraj-Kazi/crud-of-the-century/blob/main/SUPPORT.md) the project, please!
+#### Be a hero, [sponsor](https://github.com/Meraj-Kazi/crud-of-the-century/blob/main/SUPPORT.md) the project, please!
 
 <hr>
 
@@ -87,7 +87,13 @@ Installation process is very simple and different for each languages & framework
 
 ### 🚀 Quick Guide 
 
-Each of the branches of this repo contains CRUD project in different programming languages & frameworks. You'll find the related guides in each one. It's super easy to learn and I documented them as if anyone with some basic coding knowledge could understand. 
+The intention of this project is to create a global factory of crud projects containing all the programming languages and frameworks available. Also maintain & update them with latest coding structures.
+
+Just go to any branch. They are well documented, easily explained, ready to run from anywhere within minutes.  
+
+Any student, fresher, professional programmer/developer/engineer can get help from this right away.
+
+Each of the branches of this repo contains CRUD project in different programming languages & frameworks. You'll find the related guides in each one. It's **super easy** to learn and I documented them as if anyone with some basic coding knowledge could understand. 
 
 Learning crud operation is the first big challenge of learning any programming language/framework or development. It doesn't matter if it's web programming or anything else, learning crud is a must. Also it gives you proper basic knowledge about the system.
 
