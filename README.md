@@ -11,7 +11,7 @@ Best place to learn different programming <br> languages through <strong>crud</s
 <p align="center">
     <a href="#sponsors"><strong>Sponsors</strong></a> ·
     <a href="#preface"><strong>Preface</strong></a> ·
-    <a href="#crud-features"><strong>Features</strong></a> ·
+    <a href="#features"><strong>Features</strong></a> ·
     <a href="#install"><strong>Install</strong></a> ·
     <a href="#quick-guide"><strong>Quick Guide</strong></a> 
 </p>
@@ -26,7 +26,7 @@ Learn different programming languages & frameworks through crud (create, read, u
 </div>
 
 ### 🚀 Sponsors 🚀 
-###### Be a hero, sponsor the project, please!
+###### Be a hero, [sponsor](https://github.com/Meraj-Kazi/crud-of-the-century/blob/main/SUPPORT.md) the project, please!
 
 <hr>
 
@@ -67,22 +67,42 @@ Each letter in the CRUD acronym has a corresponding HTTP request method.
 
 ***This data is heavily inspired from the one published on FreeCodeCamp. You can [read](https://www.freecodecamp.org/news/crud-operations-explained/) their's as well.***
 
-Here's the list of current available cruds - 
-- [x] [JavaScript](#) 
-- [x] [NodeJS](#) 
+<hr>
 
+### 🚀 Features 
+This project has ready crud project in several programming languages & frameworks.
 
+Here's the list of current available crud -
 
-## 🚀 Support
+- [x] [JavaScript CRUD](#)
+- [x] [NodeJS CRUD](https://github.com/Meraj-Kazi/crud-of-the-century/tree/nodejs)
 
-This is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](./SUPPORT.md).
+<hr>
 
-## 🚀 People
+### 🚀 Install 
+
+Installation process is very simple and different for each languages & frameworks. Each one is properly documented in their corresponding branches. For example, if you wanna learn about the installation process of NodeJS to run [NodeJS CRUD](https://github.com/Meraj-Kazi/crud-of-the-century/tree/nodejs), you'll find it inside the [NodeJS CRUD](https://github.com/Meraj-Kazi/crud-of-the-century/tree/nodejs) branch doc.
+
+<hr>
+
+### 🚀 Quick Guide 
+
+Each of the branches of this repo contains CRUD project in different programming languages & frameworks. You'll find the related guides in each one. It's super easy to learn and I documented them as if anyone with some basic coding knowledge could understand. 
+
+Learning crud operation is the first big challenge of learning any programming language/framework or development. It doesn't matter if it's web programming or anything else, learning crud is a must. Also it gives you proper basic knowledge about the system.
+
+<hr>
+
+### 🚀 Support
+
+This is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://github.com/Meraj-Kazi/crud-of-the-century/blob/main/SUPPORT.md).
+
+### 🚀 People
 
 - Maintainers - [Meraj](https://twitter.com/meraj_kazi)
 - Contributors - 
 - Website - [crud of the century](https://meraj-kazi.github.io/crud-of-the-century)
 
-## 🚀 License
+### 🚀 License
 
 This project is [MIT licensed](https://github.com/Meraj-Kazi/crud-of-the-century/blob/main/LICENSE).
