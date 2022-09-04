@@ -113,16 +113,16 @@ Please go through this doc *line-by-line* to understand it properly. It's super 
 For testing, we will use Postman. You can download it from [here](https://www.postman.com/downloads/).
 
 
-## 🚀 Support
+### 🚀 Support
 
 This is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](./SUPPORT.md).
 
-## 🚀 People
+### 🚀 People
 
 - Maintainers - [Meraj](https://twitter.com/meraj_kazi)
 - Contributors - 
 - Website - [crud of the century](https://meraj-kazi.github.io/crud-of-the-century)
 
-## 🚀 License
+### 🚀 License
 
 This project is [MIT licensed](https://github.com/Meraj-Kazi/crud-of-the-century/blob/main/LICENSE).
