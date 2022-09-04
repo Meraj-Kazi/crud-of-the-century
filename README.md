@@ -10,14 +10,16 @@ Best place to learn different programming <br> languages through **crud** operat
     <a href="#sponsors"><strong>Sponsors</strong></a> ·
     <a href="#preface"><strong>Preface</strong></a> ·
     <a href="#crud-features"><strong>Features</strong></a> ·
-    <a href="#quick-guide"><strong>Quick Guide</strong></a> 
+    <a href="#install"><strong>Install</strong></a> ·
+    <a href="#quick-doc"><strong>Quick Doc</strong></a> ·
+    <a href="#testing"><strong>Testing</strong></a> 
 </p>
 <br>
 
-## CRUD in NodeJS
+# CRUD in NodeJS
 
 Simple **crud** application created using nodeJS, express & mongoDB.
-Go to the guide: [CRUD: NodeJS](#)
+Go to the guide: [CRUD: NodeJS](#install)
 
 <hr>
 
@@ -71,7 +73,39 @@ Each letter in the CRUD acronym has a corresponding HTTP request method.
 
 **_This data is heavily inspired from the one published on FreeCodeCamp. You can [read](https://www.freecodecamp.org/news/crud-operations-explained/) their's as well._**
 
+--- 
+
 Here's the list of current available cruds -
 
 - [x] [JavaScript](#)
-- [x] [NodeJS](#)
+- [x] [NodeJS]()
+
+--- 
+
+### Install 
+
+***Before You Install:*** 
+*Please give this repo a **star** at the top right corner. It would encourage me more to maintain this repo actively. And you can **sponsor** me too, so that I can continue to grow and contribute more in open source. Thanks!*
+
+1. Install `NodeJs` from [here](https://nodejs.org/en/download/). *(LTS version is recommended)* 
+2. Install `Visual Studio Code` from [here](https://code.visualstudio.com/Download). *(you can use any other code editor of your choice, if you want.)*
+3. Clone or download this repository in your computer. 
+4. Open `Visual Studio Code` & open the cloned project in it.
+5. Open terminal inside the project folder 
+``` 
+control + shift + ` (commonly known as backtick)
+```
+6. Run `npm install` & wait untill the process ends. 
+7. Then run `npm start` and the project will start running immediately. 
+
+But you won't be able to use it properly untill you read the [Quick Guide](#quick-doc)
+
+### Quick Doc 
+Please go through this doc *line-by-line* to understand it properly. It's super **easy** and onc eyou understand it, you can never forget this.
+
+
+
+### Testing 
+
+For testing, we will use Postman. You can download it from [here](https://www.postman.com/downloads/).
+
