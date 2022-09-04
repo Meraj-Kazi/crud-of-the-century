@@ -35,7 +35,7 @@ Sit tight with me. You'll see how much easy and effective it is to learn a compl
 
 ###### In case you don't know what CRUD actually is - 
 
-### Despite being commonly pronounced /krʌd/, CRUD is not a word. It’s an abbreviation that stands for Create, Read, Update, and Delete or Destroy. 
+## Despite being commonly pronounced /krʌd/, CRUD is not a word. It’s an abbreviation that stands for Create, Read, Update, and Delete or Destroy. 
 
 #### What is CRUD?
 
