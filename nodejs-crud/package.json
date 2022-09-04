@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-crud",
+  "version": "1.0.0",
+  "description": "Simple crud in nodejs. Created by Meraj Kazi. Original github repo: https://meraj-kazi.github.io/crud-of-the-century",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Meraj Kazi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.4"
+  }
+}
