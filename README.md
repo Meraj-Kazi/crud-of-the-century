@@ -76,6 +76,7 @@ Each letter in the CRUD acronym has a corresponding HTTP request method.
 <hr>
 
 ### Features  🚀
+
 "CRUD of the Century", which means This project, has the **biggest** collection of easiest crud projects in several programming languages & frameworks. All the codes are up-to-date with their latest coding system. Our goal is to cover all the modern programming langiages & frameworks in this, so that, developers can get help.
 
 Here's the list of current available crud operations -
