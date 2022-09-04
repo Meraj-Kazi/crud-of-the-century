@@ -110,7 +110,15 @@ Please go through this doc *line-by-line* to understand it properly. It's super 
 > 
 > *Any student, fresher, professional programmer/developer/engineer can get help from this right away.*
 >
-> *Learning crud operation is the first big challenge of learning any programming language/framework or development. It doesn't matter if it's web programming or anything else, learning crud is a must. Also it gives you proper basic knowledge about the system.*
+> *Learning crud operation is the first big challenge of learning any programming language/framework or development. It doesn't matter if it's web programming or anything else, learning crud is a must. Also it gives you proper basic knowledge about the system.* 
+
+
+This project uses NodeJS, Express and MongoDB.
+You'll need a mongodb account. Here's how you can get one - 
+
+- Go to [MongoDB Website](https://account.mongodb.com/account/register) & register a new account. 
+- Now login from [here](https://account.mongodb.com/account/login). 
+- Then create a database.
 
 
 
