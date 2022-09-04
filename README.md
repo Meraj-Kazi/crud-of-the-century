@@ -3,13 +3,13 @@
 
 <br>
 
-Best place to learn different programming <br> languages through **crud** operations
+Best place to learn different programming <br> languages through <strong>crud</strong> operations
 
 <br>
 <p align="center">
     <a href="#sponsors"><strong>Sponsors</strong></a> ·
     <a href="#preface"><strong>Preface</strong></a> ·
-    <a href="#crud-features"><strong>Features</strong></a> ·
+    <a href="#features"><strong>Features</strong></a> ·
     <a href="#install"><strong>Install</strong></a> ·
     <a href="#quick-doc"><strong>Quick Doc</strong></a> ·
     <a href="#testing"><strong>Testing</strong></a> 
@@ -37,7 +37,7 @@ Learn different programming languages & frameworks through crud (create, read, u
 
 <hr>
 
-### Preface
+### 🚀 Preface
 
 Hello there!
 Are you willing learn a programming language that you know nothing about?
@@ -75,14 +75,17 @@ Each letter in the CRUD acronym has a corresponding HTTP request method.
 
 --- 
 
-Here's the list of current available cruds -
+### 🚀 Features 
+This project has ready crud project in several programming languages & frameworks.
 
-- [x] [JavaScript](#)
-- [x] [NodeJS]()
+Here's the list of current available crud -
+
+- [x] [JavaScript CRUD](#)
+- [x] [NodeJS CRUD](https://github.com/Meraj-Kazi/crud-of-the-century/tree/nodejs)
 
 --- 
 
-### Install 
+### 🚀 Install 
 
 ***Before You Install:*** 
 *Please give this repo a **star** at the top right corner. It would encourage me more to maintain this repo actively. And you can **sponsor** me too, so that I can continue to grow and contribute more in open source. Thanks!*
@@ -100,12 +103,26 @@ control + shift + ` (commonly known as backtick)
 
 But you won't be able to use it properly untill you read the [Quick Guide](#quick-doc)
 
-### Quick Doc 
+### 🚀 Quick Doc 
 Please go through this doc *line-by-line* to understand it properly. It's super **easy** and onc eyou understand it, you can never forget this.
 
 
 
-### Testing 
+### 🚀 Testing 
 
 For testing, we will use Postman. You can download it from [here](https://www.postman.com/downloads/).
 
+
+## 🚀 Support
+
+This is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](./SUPPORT.md).
+
+## 🚀 People
+
+- Maintainers - [Meraj](https://twitter.com/meraj_kazi)
+- Contributors - 
+- Website - [crud of the century](https://meraj-kazi.github.io/crud-of-the-century)
+
+## 🚀 License
+
+This project is [MIT licensed](https://github.com/Meraj-Kazi/crud-of-the-century/blob/main/LICENSE).
