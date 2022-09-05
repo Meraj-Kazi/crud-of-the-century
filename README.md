@@ -19,14 +19,15 @@ Best place to learn different programming <br> languages through <strong>crud</s
 
 # CRUD of the Century
 
-Biggest collection of easiest **crud** applications created using different programming languages & frameworks.
+Biggest collection of easiest **crud** applications created <br> using different programming languages & frameworks.
 Go to the guide: [CRUD: Install](#install)
 
 <hr>
 
-Learn different programming languages & frameworks through crud (create, read, update, delete) operatioins.
+Learn different programming languages & frameworks <br> through crud (create, read, update, delete) operatioins.
 
-**This is the ultimate output of my interest in learning various programming languages over the years. Hope this will be helpful for everyone**
+**This is the ultimate output of my interest in learning <br> various programming languages over the years. <br> Hope this will be helpful for everyone**
+
 <hr>
 
 </div>
@@ -125,7 +126,7 @@ This is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ### People 
 
 - Maintainers - [Meraj](https://twitter.com/meraj_kazi)
-- Contributors - 
+- Contributors - [Meraj](https://twitter.com/meraj_kazi)
 - Website - [crud of the century](https://meraj-kazi.github.io/crud-of-the-century)
 
 ### License 
