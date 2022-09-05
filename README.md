@@ -191,4 +191,4 @@ This is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ### License 
 
-This project is [MIT licensed](https://github.com/Meraj-Kazi/crud-of-the-century/blob/main/LICENSE).
+CRUD of the Century project is [MIT licensed](https://github.com/Meraj-Kazi/crud-of-the-century/blob/main/LICENSE).
