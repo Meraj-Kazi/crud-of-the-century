@@ -37,7 +37,7 @@ Learn different programming languages & frameworks through crud (create, read, u
 
 <hr>
 
-### Preface 🚀
+### Preface 
 
 Hello there!
 Are you willing learn a programming language that you know nothing about?
@@ -75,17 +75,32 @@ Each letter in the CRUD acronym has a corresponding HTTP request method.
 
 --- 
 
-### Features 🚀
-This project has ready crud project in several programming languages & frameworks.
+🚀
+### Features 
 
-Here's the list of current available crud -
 
-- [x] [JavaScript CRUD](#)
+"CRUD of the Century", which means This project, has the **biggest** collection of easiest crud projects in several programming languages & frameworks. All the codes are up-to-date with their latest coding system. Our goal is to cover all the modern programming langiages & frameworks in this, so that, developers can get help.
+
+Here's the list of current available crud operations -
+
 - [x] [NodeJS CRUD](https://github.com/Meraj-Kazi/crud-of-the-century/tree/nodejs)
+- [ ] [Angular CRUD](#) *coming soon* 
+- [ ] [Django CRUD](#) *coming soon* 
+- [ ] [JavaScript CRUD](#) *coming soon*
+- [ ] [Java CRUD](#) *coming soon* 
+- [ ] [NestJS CRUD](#) *coming soon* 
+- [ ] [NextJS CRUD](#) *coming soon* 
+- [ ] [Laravel CRUD](#) *coming soon* 
+- [ ] [Php CRUD](#) *coming soon* 
+- [ ] [Python CRUD](#) *coming soon* 
+- [ ] [React CRUD](#) *coming soon* 
+- [ ] [Svelte CRUD](#) *coming soon* 
+- [ ] [TypeScript CRUD](#) *coming soon* 
+- [ ] [VueJS CRUD](#) *coming soon* 
 
 --- 
 
-### Install 🚀
+### Install 
 
 ***Before You Install:*** 
 *Please give this repo a **star** at the top right corner. It would encourage me more to maintain this repo actively. And you can **sponsor** me too, so that I can continue to grow and contribute more in open source. Thanks!*
@@ -103,7 +118,7 @@ control + shift + ` (commonly known as backtick)
 
 But you won't be able to use it properly untill you read the [Quick Guide](#quick-doc)
 
-### Quick Doc 🚀
+### Quick Doc 
 Please go through this doc *line-by-line* to understand it properly. It's super **easy** and onc eyou understand it, you can never forget this.
 
 > *The intention of this project is to create a global factory of crud projects containing all the programming languages and frameworks available. Also maintain & update them with latest coding structures.*
@@ -124,21 +139,22 @@ You'll need a mongodb account. Here's how you can get one -
 
 <hr>
 
-### Testing 🚀
+### Testing 
 
 For testing, we will use Postman. You can download it from [here](https://www.postman.com/downloads/).
 
 
-### Support 🚀
+### Support 
 
 This is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://github.com/Meraj-Kazi/crud-of-the-century/blob/main/SUPPORT.md).
 
-### People 🚀
+### People 
 
 - Maintainers - [Meraj](https://twitter.com/meraj_kazi)
 - Contributors - 
 - Website - [crud of the century](https://meraj-kazi.github.io/crud-of-the-century)
 
-### License 🚀
+
+### License 
 
 This project is [MIT licensed](https://github.com/Meraj-Kazi/crud-of-the-century/blob/main/LICENSE).
