@@ -18,8 +18,7 @@ Best place to learn different programming <br> languages through <strong>crud</s
 
 # CRUD in NodeJS
 
-Simple **crud** application created <br> using **nodeJS**, **express** & **mongoDB**.
-Go to the guide: [CRUD: NodeJS](#install)
+Simple **crud** application created <br> using **nodeJS**, **express** & **mongoDB**. <br> Go to the guide: [CRUD: NodeJS](#install)
 
 <hr>
 
