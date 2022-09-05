@@ -150,7 +150,7 @@ This is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ### People 
 
 - Maintainers - [Meraj](https://twitter.com/meraj_kazi)
-- Contributors - 
+- Contributors - [Meraj](https://twitter.com/meraj_kazi)
 - Website - [crud of the century](https://meraj-kazi.github.io/crud-of-the-century)
 
 
