@@ -7,7 +7,7 @@ Best place to learn different programming <br> languages through <strong>crud</s
 
 <br>
 <p align="center">
-    <a href="#sponsors"><strong>Sponsors</strong></a> ·
+    <a href="#-sponsors-"><strong>Sponsors</strong></a> ·
     <a href="#preface"><strong>Preface</strong></a> ·
     <a href="#features"><strong>Features</strong></a> ·
     <a href="#install"><strong>Install</strong></a> ·
@@ -18,14 +18,14 @@ Best place to learn different programming <br> languages through <strong>crud</s
 
 # CRUD in NodeJS
 
-Simple **crud** application created using nodeJS, express & mongoDB.
+Simple **crud** application created <br> using **nodeJS**, **express** & **mongoDB**.
 Go to the guide: [CRUD: NodeJS](#install)
 
 <hr>
 
-Learn different programming languages & frameworks through crud (create, read, update, delete) operatioins.
+Learn different programming languages & frameworks <br> through crud (create, read, update, delete) operatioins.
 
-**This is the ultimate output of my interest in learning various programming languages over the years. Hope this will be helpful for everyone**
+**This is the ultimate output of my interest in learning <br> various programming languages over the years. <br> Hope this will be helpful for everyone**
 
 <hr>
 
