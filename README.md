@@ -75,7 +75,6 @@ Each letter in the CRUD acronym has a corresponding HTTP request method.
 
 --- 
 
-🚀
 ### Features 
 
 
