@@ -36,7 +36,7 @@ Best place to learn different programming <br> languages through <strong>crud</s
 </p>
 
 
-# CRUD of the Century
+## CRUD of the Century
 
 Biggest collection of easiest **crud** applications created <br> using different programming languages & frameworks. <br> Go to the guide: [CRUD: Install](#install)
 
