@@ -17,6 +17,25 @@ Best place to learn different programming <br> languages through <strong>crud</s
 </p>
 <br>
 
+<p>
+    <a href="https://github.com/prettier/prettier">
+      <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square"/>
+    </a> 
+    <a href="https://isitmaintained.com/project/Meraj-Kazi/crud-of-the-century">
+      <img src="http://isitmaintained.com/badge/resolution/Meraj-Kazi/crud-of-the-century.svg"/>
+    </a>
+    <a href="https://github.com/Meraj-Kazi/crud-of-the-century/issues">
+      <img src="https://img.shields.io/github/issues/Meraj-Kazi/crud-of-the-century"/>
+    </a>
+    <a href="https://github.com/Meraj-Kazi/crud-of-the-century/stargazers">
+      <img src="https://img.shields.io/github/stars/Meraj-Kazi/crud-of-the-century"/>
+    </a>
+    <a href="https://github.com/Meraj-Kazi/crud-of-the-century/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/Meraj-Kazi/crud-of-the-century"/>
+    </a>
+</p>
+
+
 # CRUD of the Century
 
 Biggest collection of easiest **crud** applications created <br> using different programming languages & frameworks. <br> Go to the guide: [CRUD: Install](#install)
@@ -26,6 +45,24 @@ Biggest collection of easiest **crud** applications created <br> using different
 Learn different programming languages & frameworks <br> through crud (create, read, update, delete) operatioins.
 
 **This is the ultimate output of my interest in learning <br> various programming languages over the years. <br> Hope this will be helpful for everyone**
+
+We're in progress to cover - 
+
+<p align="center">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+</p>
+
+And many more...
 
 <hr>
 
