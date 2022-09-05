@@ -34,9 +34,9 @@ Best place to learn different programming <br> languages through <strong>crud</s
     </a>
 </p>
 
-# CRUD in NodeJS
+# CRUD in Django
 
-Simple **crud** application created <br> using **nodeJS**, **express** & **mongoDB**. <br> Go to the guide: [CRUD: NodeJS](#install)
+Simple **crud** application created <br> using **nodeJS**, **express** & **mongoDB**. <br> Go to the guide: [CRUD: Django](#install)
 
 <hr>
 
