@@ -118,7 +118,7 @@ Each letter in the CRUD acronym has a corresponding HTTP request method.
 
 Here's the list of current available crud operations -
 
-- [x] [NodeJS CRUD](https://github.com/Meraj-Kazi/crud-of-the-century/tree/nodejs)
+- [x] [NodeJS CRUD](./nodejs-crud/)
 - [ ] [Angular CRUD](#) *coming soon* 
 - [ ] [Django CRUD](#) *coming soon* 
 - [ ] [JavaScript CRUD](#) *coming soon*
