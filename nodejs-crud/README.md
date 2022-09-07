@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" width="300" src="./img/crud-of-the-century-banner-1.png" />
+<img align="center" width="300" src="../img/crud-of-the-century-banner-1.png" />
 
 <br>
 
