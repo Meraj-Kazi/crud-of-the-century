@@ -5,15 +5,14 @@
 
 Best place to learn different programming <br> languages through <strong>crud</strong> operations
 
-
 <br>
-
 <p align="center">
     <a href="#sponsors-"><strong>Sponsors</strong></a> ·
     <a href="#preface"><strong>Preface</strong></a> ·
     <a href="#features"><strong>Features</strong></a> ·
     <a href="#install"><strong>Install</strong></a> ·
-    <a href="#quick-guide"><strong>Quick Guide</strong></a> 
+    <a href="#quick-doc"><strong>Quick Doc</strong></a> ·
+    <a href="#testing"><strong>Testing</strong></a> 
 </p>
 <br>
 
@@ -35,10 +34,9 @@ Best place to learn different programming <br> languages through <strong>crud</s
     </a>
 </p>
 
+# CRUD in NodeJS
 
-# CRUD of the Century
-
-Biggest collection of easiest **crud** applications created <br> using different programming languages & frameworks. <br> Go to the guide: [CRUD: Install](#install)
+Simple **crud** application created <br> using **nodeJS**, **express** & **mongoDB**. <br> Go to the guide: [CRUD: NodeJS](#install)
 
 <hr>
 
@@ -69,6 +67,7 @@ And many more...
 </div>
 
 ### Sponsors 🚀
+
 #### Be a hero, [sponsor](https://github.com/Meraj-Kazi/crud-of-the-century/blob/main/SUPPORT.md) the project, please!
 
 <hr>
@@ -80,9 +79,9 @@ Are you willing learn a programming language that you know nothing about?
 
 Sit tight with me. You'll see how much easy and effective it is to learn a completely new programming language or framework through crud operation without any prior knowledge. But please keep in mind, you'll have to go through each and every line of the documents I provide to understand the concepts clearly. I have carefully wrote down the docs so that it can be understood by school kids. That means it becomes easy to understand for anyone of any age. **DO NOT SKIP ANYTHING**.
 
-#### In case you don't know what CRUD actually is - 
+#### In case you don't know what CRUD actually is -
 
-## Despite being commonly pronounced /krʌd/, CRUD is not a word. It’s an abbreviation that stands for Create, Read, Update, and Delete or Destroy. 
+## Despite being commonly pronounced /krʌd/, CRUD is not a word. It’s an abbreviation that stands for Create, Read, Update, and Delete or Destroy.
 
 #### What is CRUD?
 
@@ -98,21 +97,21 @@ You can make a CRUD app with any of the programming languages out there. And the
 
 Each letter in the CRUD acronym has a corresponding HTTP request method.
 
-|  CRUD Operation  |  HTTP request method  |
-| :------------------------ | :-------------: | 
-|  Create  |  POST  |
-|  Read  |  GET  |
-|  Update  |  PUT or PATCH  |
-|  Delete  |  DELETE  |
-
+| CRUD Operation | HTTP request method |
+| :------------- | :-----------------: |
+| Create         |        POST         |
+| Read           |         GET         |
+| Update         |    PUT or PATCH     |
+| Delete         |       DELETE        |
 
 <br><br>
 
-***This data is heavily inspired from the one published on FreeCodeCamp. You can [read](https://www.freecodecamp.org/news/crud-operations-explained/) their's as well.***
+**_This data is heavily inspired from the one published on FreeCodeCamp. You can [read](https://www.freecodecamp.org/news/crud-operations-explained/) their's as well._**
 
-<hr>
+--- 
 
 ### Features 
+
 
 "CRUD of the Century", which means This project, has the **biggest** collection of easiest crud projects in several programming languages & frameworks. All the codes are up-to-date with their latest coding system. Our goal is to cover all the modern programming langiages & frameworks in this, so that, developers can get help.
 
@@ -133,27 +132,51 @@ Here's the list of current available crud operations -
 - [ ] [TypeScript CRUD](#) *coming soon* 
 - [ ] [VueJS CRUD](#) *coming soon* 
 
-<hr>
+--- 
 
 ### Install 
 
-Installation process is very simple and different for each languages & frameworks. Each one is properly documented in their corresponding branches. For example, if you wanna learn about the installation process of NodeJS to run [NodeJS CRUD](https://github.com/Meraj-Kazi/crud-of-the-century/tree/nodejs), you'll find it inside the [NodeJS CRUD](https://github.com/Meraj-Kazi/crud-of-the-century/tree/nodejs) branch doc.
+***Before You Install:*** 
+*Please give this repo a **star** at the top right corner. It would encourage me more to maintain this repo actively. And you can **sponsor** me too, so that I can continue to grow and contribute more in open source. Thanks!*
+
+1. Install `NodeJs` from [here](https://nodejs.org/en/download/). *(LTS version is recommended)* 
+2. Install `Visual Studio Code` from [here](https://code.visualstudio.com/Download). *(you can use any other code editor of your choice, if you want.)*
+3. Clone or download this repository in your computer. 
+4. Open `Visual Studio Code` & open the cloned project in it.
+5. Open terminal inside the project folder 
+``` 
+control + shift + ` (commonly known as backtick)
+```
+6. Run `npm install` & wait untill the process ends. 
+7. Then run `npm start` and the project will start running immediately. 
+
+But you won't be able to use it properly untill you read the [Quick Guide](#quick-doc)
+
+### Quick Doc 
+Please go through this doc *line-by-line* to understand it properly. It's super **easy** and onc eyou understand it, you can never forget this.
+
+> *The intention of this project is to create a global factory of crud projects containing all the programming languages and frameworks available. Also maintain & update them with latest coding structures.*
+> 
+> *Any student, fresher, professional programmer/developer/engineer can get help from this right away.*
+>
+> *Learning crud operation is the first big challenge of learning any programming language/framework or development. It doesn't matter if it's web programming or anything else, learning crud is a must. Also it gives you proper basic knowledge about the system.* 
+
+
+This project uses NodeJS, Express and MongoDB.
+You'll need a mongodb account. Here's how you can get one - 
+
+- Go to [MongoDB Website](https://account.mongodb.com/account/register) & register a new account. 
+- Now login from [here](https://account.mongodb.com/account/login). 
+- Then create a database.
+
+
 
 <hr>
 
-### Quick Guide 
+### Testing 
 
-The intention of this project is to create a global factory of crud projects containing all the programming languages and frameworks available. Also maintain & update them with latest coding structures.
+For testing, we will use Postman. You can download it from [here](https://www.postman.com/downloads/).
 
-Just go to any branch. They are well documented, easily explained, ready to run from anywhere within minutes.  
-
-Any student, fresher, professional programmer/developer/engineer can get help from this right away.
-
-Each of the branches of this repo contains CRUD project in different programming languages & frameworks. You'll find the related guides in each one. It's **super easy** to learn and I documented them as if anyone with some basic coding knowledge could understand. 
-
-Learning crud operation is the first big challenge of learning any programming language/framework or development. It doesn't matter if it's web programming or anything else, learning crud is a must. Also it gives you proper basic knowledge about the system.
-
-<hr>
 
 ### Support 
 
@@ -164,6 +187,7 @@ This is an MIT-licensed open source project. It can grow thanks to the sponsors 
 - Maintainers - [Meraj](https://twitter.com/meraj_kazi)
 - Contributors - [Meraj](https://twitter.com/meraj_kazi)
 - Website - [crud of the century](https://meraj-kazi.github.io/crud-of-the-century)
+
 
 ### License 
 
